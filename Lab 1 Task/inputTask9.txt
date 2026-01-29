@@ -1,0 +1,4 @@
+int m = 250;
+float n = 77.8;
+double h=3.445;
+printf("Result is");

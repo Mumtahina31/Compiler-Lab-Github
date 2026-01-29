@@ -1,0 +1,9 @@
+int 2sum = 10;
+char *s = " hello ;
+float x@ = 2.5;
+int _valid = 5;
+double value# = 3.14;
+int normal_var = 100;
+char *str = "terminated";
+float 9invalid = 2.5;
+int another@var = 50;
